@@ -11,7 +11,7 @@ Proyek ini adalah aplikasi untuk restorasi gambar yang rusak menggunakan algorit
 
 ## Prasyarat
 Pastikan Anda telah menginstal dependensi berikut sebelum menjalankan aplikasi:
-- Python 3.x
+- Python 3
 - OpenCV
 - NumPy
 - Tkinter
@@ -25,7 +25,6 @@ pip install -r requirements.txt
 ## Cara Menjalankan
 Clone repository ini ke dalam komputer Anda.
 ```bash
-Copy code
 git clone https://github.com/username/image-restoration.git
 cd image-restoration
 ```
