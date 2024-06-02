@@ -19,7 +19,7 @@ Pastikan Anda telah menginstal dependensi berikut sebelum menjalankan aplikasi:
 
 Anda dapat menginstal dependensi ini dengan perintah berikut:
 ```bash
-pip install opencv-python numpy pillow
+pip install -r requirements.txt
 ```
 
 ## Cara Menjalankan
